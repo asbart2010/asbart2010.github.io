@@ -27,3 +27,28 @@
     background: url("../img/applePie.jpg");
     background-size: cover; 
 }
+
+/*Images*/
+.imagery-1{
+    box-shadow: 5px -5px 0px red, 
+                10px -10px 0px white, 
+                15px -15px 0px blue;
+}
+
+/*Icons*/
+
+.icon-1 {
+    border: none;
+}
+
+.icon-2{
+    background: url("../img/menu.png");
+    background-size: cover;
+}
+
+/* Navigation */
+nav li{
+    list-style: none;
+    
+
+}
