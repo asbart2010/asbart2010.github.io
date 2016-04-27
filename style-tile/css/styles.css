@@ -19,6 +19,11 @@
 /*Textures and Patterns*/
 
 .pattern-1{
-    background: url("http://bgfons.com/upload/flag_texture610.jpg" 100px 100px);
-    
+    background: url("http://bgfons.com/upload/flag_texture610.jpg");
+    background-size: cover;
+}
+
+.pattern-2{
+    background: url("../img/applePie.jpg");
+    background-size: cover; 
 }
