@@ -6,6 +6,33 @@ body{
 }
 
 
+/* Navigation */
+
+nav li{
+  list-style: none;
+  display: inline-block;
+} 
+
+nav a:link,
+nav a:visited{
+  background: black;
+  color: white;
+  text-decoration: none;
+  padding: 1em;
+  transition: all .5s;
+}
+
+
+
+nav a:hover{
+  background: red;
+  margin-left: 20px;
+}
+
+nav a:active{
+  background: red;
+}
+
 
 /*Header*/
 header img{
