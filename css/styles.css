@@ -1,6 +1,13 @@
 /* Style */
 
-img{
-    height: 50px;
-    width: 50px;   
+/*Global*/
+body{
+    background: url(../img/steelTex.jpg);
+}
+
+
+
+/*Header*/
+header img{
+    widows: 100px;
 }
