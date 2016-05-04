@@ -1,39 +1,42 @@
 /* Color Palette */
-
+html{
+    background: ;
+}
 .color-1{
-    background: red;
+    background: #D4B744;
 }
 
 .color-2{
-    background: white;
+    background: #000000;
 }
 
 .color-3{
-    background: blue;
+    background: #5F1711;
 }
 
 .color-4{
-    background: black;
+    background: #081130;
 }
 
 /*Textures and Patterns*/
 
 .pattern-1{
-    background: url("http://bgfons.com/upload/flag_texture610.jpg");
+    background: url("http://images.freecreatives.com/wp-content/uploads/2016/03/Scratched-Metal-Sheet-Texture-1.jpg");
     background-size: cover;
 }
 
 .pattern-2{
-    background: url("../img/applePie.jpg");
+    background: url(http://previews.123rf.com/images/bill2499/bill24991208/bill2499120800039/14728624-circuit-board-background-texture--Stock-Vector-digital.jpg);
     background-size: cover; 
 }
 
-/*Images*/
-.imagery-1{
-    box-shadow: 5px -5px 0px red, 
-                10px -10px 0px white, 
-                15px -15px 0px blue;
+.pattern-3{
+    background: url(https://s10001431.files.wordpress.com/2013/04/moon.png);
+    background-size: cover;
 }
+
+/*Images*/
+
 
 /*Icons*/
 
@@ -53,12 +56,11 @@ nav li{
 }
 
 nav a:link{
-    background: red;
-    border-bottom: 2px solid blue;
-    border-radius: 5px;
+    background: black;
+    
     color: white;
-    padding: 20px 20px 5px 20px;
-    margin: 0 10px 0 10px;
+    padding: 10px 10px 5px 10px;
+    margin: 0 5px 0 5px;
     text-decoration: none;
 }
 
@@ -71,8 +73,8 @@ nav a:focus{
 }
 
 nav a:hover{
-    background: white;
-    color: red;   
+    background: black;
+    color: #D4B744;   
     margin-top: 20px;
 }
 
