@@ -6,7 +6,13 @@ body{
   
 }
 
+article img{
+    padding-left: 2.5em;
+}
 
+section h1{
+    padding-left: 1.655em;
+}
 /* Navigation */
 
 nav li{

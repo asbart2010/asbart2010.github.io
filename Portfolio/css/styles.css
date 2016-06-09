@@ -3,10 +3,13 @@
 
 /*Global*/
 body{
-  background: url("../img/steel.jpg");
+  background: url("../../img/steel.jpg");
 }
 
-
+section p{
+   
+    font-size: 1.4em;
+}
 
 h1 img{
     width: 10em;
