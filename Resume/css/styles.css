@@ -3,8 +3,9 @@
 
 /*Global*/
 body{
-  
+    background: url("../../img/steel.jpg");  
 }
+
 
 article img{
     padding-left: 2.5em;
