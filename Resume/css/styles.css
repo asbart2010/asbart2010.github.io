@@ -42,3 +42,12 @@ header img{
 }
 
 
+/*Quote*/
+blockquote{
+    text-align: center;
+    font-family: 'IM Fell Double Pica', serif;
+    font-size: 2em;
+    color: black;
+    text-shadow: 1px 1px 0 red;
+    
+}
